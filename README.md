@@ -1,6 +1,6 @@
  # Projeto-CardE-Commerce
 
-Estes Cards de e-commerce tem como finalidade, trazer um efeito 3D de melhor vizualicão do mostruario da roupa com efeitos de transições.  
+Estes Cards de e-commerce tem como finalidade, trazer um efeito 3D de melhor vizualização do mostruário da roupa com efeitos de transições.  
 
 # Projeto Desenvolvido:
 
